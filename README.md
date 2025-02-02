@@ -6,7 +6,7 @@ I am Brazilian  🇧🇷
 
 24 years old ⏳
 
-Computer Science student 💻
+Bachelor of Computer Science 💻
 
 I love creating tools that make people's lives easier ❤️ 🛠️
 
