@@ -12,7 +12,7 @@ I love creating tools that make people's lives easier ❤️ 🛠️
 
 ### ⚒️ I am currently using in my projects :
 <div>
-<img src=" https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="PHP" style="width:40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="PHP" style="width:40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" style="width:40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/livewire/livewire-original.svg" alt="Livewire" style="width:40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width:40px">
