@@ -8,8 +8,6 @@ I am Brazilian  🇧🇷
 
 Bachelor of Computer Science 💻
 
-I love creating tools that make people's lives easier ❤️ 🛠️
-
 ### ⚒️ I am currently using in my projects :
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="PHP" style="width:40px">
