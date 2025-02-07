@@ -12,23 +12,21 @@ I love creating tools that make people's lives easier ❤️ 🛠️
 
 ### ⚒️ I am currently using in my projects :
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" style="width:40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" style="width:40px">
+<img src=" https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="PHP" style="width:40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" style="width:40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/livewire/livewire-original.svg" alt="Livewire" style="width:40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width:40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" style="width:40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg" alt="Docker" style="width:40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" style="width:40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg" alt="Grafana" style="width:40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" style="width:40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" style="width:40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" style="width:40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width:40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" style="width:40px">
 </div>
 
 ### 📚 I'm currently studying :
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" style="width:40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" style="width:40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" style="width:40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width:40px">
 </div>
 
 ### ✉️ Contact me :
